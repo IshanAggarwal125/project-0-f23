@@ -1,0 +1,12 @@
+Malloc will be used, as we are dealing with strings
+As well as strcpy
+
+Working with strings and repeatedly open directories. 
+
+use stat function 2 parametrs, the path name and the stmode number in the st
+
+Open directory
+Then iterate over the directory
+if directory call recursion again if file then go back.
+
+Struct stat is going to have information whether directory or file
